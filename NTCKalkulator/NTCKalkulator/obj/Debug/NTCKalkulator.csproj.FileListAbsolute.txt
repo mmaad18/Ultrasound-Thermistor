@@ -1,0 +1,15 @@
+C:\Users\mmbio\Google Drive\Selvstudium\CSharp\NTCKalkulator\NTCKalkulator\bin\Debug\NTCKalkulator.exe.config
+C:\Users\mmbio\Google Drive\Selvstudium\CSharp\NTCKalkulator\NTCKalkulator\bin\Debug\NTCKalkulator.exe
+C:\Users\mmbio\Google Drive\Selvstudium\CSharp\NTCKalkulator\NTCKalkulator\bin\Debug\NTCKalkulator.pdb
+C:\Users\mmbio\Google Drive\Selvstudium\CSharp\NTCKalkulator\NTCKalkulator\obj\Debug\MainWindow.g.cs
+C:\Users\mmbio\Google Drive\Selvstudium\CSharp\NTCKalkulator\NTCKalkulator\obj\Debug\App.g.cs
+C:\Users\mmbio\Google Drive\Selvstudium\CSharp\NTCKalkulator\NTCKalkulator\obj\Debug\NTCKalkulator_MarkupCompile.cache
+C:\Users\mmbio\Google Drive\Selvstudium\CSharp\NTCKalkulator\NTCKalkulator\obj\Debug\NTCKalkulator_MarkupCompile.lref
+C:\Users\mmbio\Google Drive\Selvstudium\CSharp\NTCKalkulator\NTCKalkulator\obj\Debug\MainWindow.baml
+C:\Users\mmbio\Google Drive\Selvstudium\CSharp\NTCKalkulator\NTCKalkulator\obj\Debug\NTCKalkulator.g.resources
+C:\Users\mmbio\Google Drive\Selvstudium\CSharp\NTCKalkulator\NTCKalkulator\obj\Debug\NTCKalkulator.Properties.Resources.resources
+C:\Users\mmbio\Google Drive\Selvstudium\CSharp\NTCKalkulator\NTCKalkulator\obj\Debug\NTCKalkulator.csproj.GenerateResource.Cache
+C:\Users\mmbio\Google Drive\Selvstudium\CSharp\NTCKalkulator\NTCKalkulator\obj\Debug\NTCKalkulator.csproj.CoreCompileInputs.cache
+C:\Users\mmbio\Google Drive\Selvstudium\CSharp\NTCKalkulator\NTCKalkulator\obj\Debug\NTCKalkulator.exe
+C:\Users\mmbio\Google Drive\Selvstudium\CSharp\NTCKalkulator\NTCKalkulator\obj\Debug\NTCKalkulator.pdb
+C:\Users\mmbio\Google Drive\Selvstudium\CSharp\NTCKalkulator\NTCKalkulator\obj\Debug\NTCKalkulator.csprojAssemblyReference.cache
